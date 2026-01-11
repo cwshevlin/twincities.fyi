@@ -14,6 +14,8 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+THEME = './themes/fyi'
+STYLESHEET_URL = 'theme/css/main.css'
 
 # Blogroll
 LINKS = (

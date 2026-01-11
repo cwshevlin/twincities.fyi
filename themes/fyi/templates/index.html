@@ -1,14 +1,14 @@
 {% extends "base.html" %}
 {% block content %}
     {% block content_title %}
-        <h2>All articles</h2>
+        <h3>A quick snapshot on what's happening in the cities.</h3>
     {% endblock %}
 
 
     {% for article in articles_page.object_list %}
         <article>
             <header> <h2><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
-            <section>{{ article.summary }}</section>
+            <section>{{ article.content }}</section>
             <footer>
                 <p>Published: <time datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time></p>
                 <address>By
@@ -23,5 +23,7 @@
     {% if articles_page.has_other_pages() %}
         {% include 'pagination.html' %}
     {% endif %}
+
+    <p>Have an event you want to see here? <a href="mailto:cwshevlin@proton.me">Send me an email.</a></p>
 
 {% endblock content %}

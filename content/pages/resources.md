@@ -1,0 +1,9 @@
+Title: Resources
+Date: 2026-01-26 20:53
+Authors: Colin Shevlin
+Summary: A page for resources. 
+
+### Patrol best practices
+
+This [public Proton doc](https://docs.proton.me/doc?mode=open-url&token=NQBEQE8K60#CljXjBjfCxDo) describes best practices for making patrols on foot and in the car. Use it to start patroling in your neighborhood. 
+

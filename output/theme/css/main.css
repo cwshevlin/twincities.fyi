@@ -37,3 +37,7 @@ pre {
     margin: 2em 1em 2em 4em;
     white-space: pre-wrap;
 }
+
+address {
+    display: none;
+}

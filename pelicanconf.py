@@ -1,6 +1,6 @@
 AUTHOR = 'Colin Shevlin'
 SITENAME = 'twincities.fyi'
-SITEURL = "https://twincities.fyi"
+SITEURL = ""
 
 PATH = "content"
 

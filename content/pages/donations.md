@@ -3,6 +3,10 @@ Date: 2026-01-26 20:53
 Authors: Colin Shevlin
 Summary: A page for resources. 
 
+### ICEOUT mutual aid linktree
+
+A [huge linktree](https://linktr.ee/ICEOUTmutualaid) of organizations, food distribution and direct aid links. 
+
 ### Wrecktangle and Smitten Kitten
 
 Wrecktangle and Smitten Kitten are [teaming up to get food and home essentials to families in need](https://www.instagram.com/reel/DTTcklnCXaV/). You can buy a pizza at Wrecktangle and they will give a pizza to a family in need through Sunday 1/11. 

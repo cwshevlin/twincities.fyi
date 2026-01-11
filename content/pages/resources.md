@@ -7,3 +7,7 @@ Summary: A page for resources.
 
 This [public Proton doc](https://docs.proton.me/doc?mode=open-url&token=NQBEQE8K60#CljXjBjfCxDo) describes best practices for making patrols on foot and in the car. Use it to start patroling in your neighborhood. 
 
+### Restaurants to support
+
+Kristie Kimball put together a [list of places](https://beyondbeurreblanc.substack.com/p/a-list-of-mn-restaurants-to-visit) that are publicly posting against ICE after Reneé Good's murder. 
+

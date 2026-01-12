@@ -5,9 +5,10 @@ body {
   color: #111;
   width: 80%;
   min-width: 400px;
+  max-width: 800px;
   min-height: 200px;
   padding: 1em;
-  margin: 5% 10%;
+  margin: 5% auto;
   border: thin solid gray;
   border-radius: 5px;
   display: block;
@@ -40,4 +41,19 @@ pre {
 
 address {
     display: none;
+}
+
+@media (max-width: 600px) {
+    body {
+        font-family: monospace;
+        font-size: 100%;
+        background-color: white;
+        color: #111;
+        width: 95%;
+        min-height: 200px;
+        padding: 1em;
+        margin: 0 auto;
+        border: none;
+        display: block;
+    }
 }

@@ -57,3 +57,14 @@ address {
         display: block;
     }
 }
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #111;
+        color: #eee;
+        border: thin solid #444;
+    }
+    a:link    { color: #66f; text-decoration: none;      }
+    a:hover   { color: #66f; text-decoration: underline; }
+    a:visited { color: #88f;                             }
+}

@@ -9,11 +9,11 @@ Unidos MN [has a guide](https://unidos-mn.org/know-your-rights) for several kind
 
 ### Patrol best practices
 
-This [public Proton doc](https://docs.proton.me/doc?mode=open-url&token=NQBEQE8K60#CljXjBjfCxDo) describes best practices for making patrols on foot and in the car. Use it to start patroling in your neighborhood. 
+This [public Proton doc](https://docs.proton.me/doc?mode=open-url&token=NQBEQE8K60#CljXjBjfCxDo) describes best practices for making patrols on foot and in the car. Use it to start patrolling in your neighborhood. 
 
 ### Documenting best practices
 
-MPR interviewed Erika Zurawski, cofounder of [MIRAC](https://www.miracmn.com/) on [what to do when documenting](https://www.mprnews.org/story/2025/12/11/dos-and-donts-if-you-monitor-ice-agents-immigration-actions-in-minnesota) ICE activity.
+MPR interviewed Erika Zurawski, co-founder of [MIRAC](https://www.miracmn.com/) on [what to do when documenting](https://www.mprnews.org/story/2025/12/11/dos-and-donts-if-you-monitor-ice-agents-immigration-actions-in-minnesota) ICE activity.
 
 ### Restaurants to support
 

@@ -7,8 +7,21 @@ Summary: A page for resources.
 
 A [huge linktree](https://linktr.ee/ICEOUTmutualaid) of organizations, food distribution and direct aid links. 
 
-### Wrecktangle and Smitten Kitten
+### Beyond Beurre Blanc
 
-Wrecktangle and Smitten Kitten are [teaming up to get food and home essentials to families in need](https://www.instagram.com/reel/DTTcklnCXaV/). You can buy a pizza at Wrecktangle and they will give a pizza to a family in need through Sunday 1/11. 
+If you're in Uptown, you can drop off donations at 3048 Hennepin Ave.
 
-Smitten Kitten is accepting non-perishable food donations. Drop off donations at the Lyn Lake Wrecktangle and Smitten Kitten location.
+Drop hours are Sunday, Monday, and Tuesday 8am-6pm. Wednesday 8am-9am
+
+Most needed items are:
+-Canned Chicken + Tuna
+-Canned Beans
+-Mac n Cheese
+-Canned Fruits + Veggies
+-Canned Pasta Sauce
+-Ramen
+-Menstrual Products
+-Toiletries
+-Cooking oils
+-Tortillas
+-Paper bags with handles

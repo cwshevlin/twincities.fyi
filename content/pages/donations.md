@@ -9,19 +9,19 @@ A [huge linktree](https://linktr.ee/ICEOUTmutualaid) of organizations, food dist
 
 ### Beyond Beurre Blanc
 
-If you're in Uptown, you can drop off donations at 3048 Hennepin Ave.
+If you're in Uptown, you can [drop off donations](https://www.instagram.com/p/DTYEVRvEb1t/?img_index=1) at 3048 Hennepin Ave.
 
 Drop hours are Sunday, Monday, and Tuesday 8am-6pm. Wednesday 8am-9am
 
 Most needed items are:
--Canned Chicken + Tuna
--Canned Beans
--Mac n Cheese
--Canned Fruits + Veggies
--Canned Pasta Sauce
--Ramen
--Menstrual Products
--Toiletries
--Cooking oils
--Tortillas
--Paper bags with handles
+*Canned Chicken + Tuna
+*Canned Beans
+*Mac n Cheese
+*Canned Fruits + Veggies
+*Canned Pasta Sauce
+*Ramen
+*Menstrual Products
+*Toiletries
+*Cooking oils
+*Tortillas
+*Paper bags with handles

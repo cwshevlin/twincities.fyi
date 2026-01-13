@@ -43,6 +43,10 @@ address {
     display: none;
 }
 
+article {
+    padding-top: 1em;
+}
+
 @media (max-width: 600px) {
     body {
         font-family: monospace;

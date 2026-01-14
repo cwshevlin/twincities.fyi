@@ -1,7 +1,7 @@
 Title: How does a VPN work?
 Date: 2026-01-14 10:14
-Category: How-Tos
-Tags: updates
+Category: Guides
+Tags: vpn, security
 Slug: how-does-a-vpn-work
 Keywords: vpn, security
 Authors: Colin Shevlin

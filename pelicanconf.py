@@ -17,6 +17,10 @@ AUTHOR_FEED_RSS = None
 THEME = './themes/fyi'
 STYLESHEET_URL = '/theme/css/main.css'
 
+EXTRA_PATH_METADATA = {
+    'extra/favicon.ico': {'path': 'favicon.ico'},
+}
+
 # Blogroll
 LINKS = (
 )

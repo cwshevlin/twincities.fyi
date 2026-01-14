@@ -12,3 +12,7 @@ A [huge linktree](https://linktr.ee/mplsmutualaid) of organizations, food distri
 Moth Oddities is collecting food, clothing, and supply donations in response to the ICE raids happening in Minneapolis.
 
 Items can be dropped off any time between 11am-6pm Monday (1/12), Tuesday (1/13), and Wednesday (1/14) at 13 5th St NE, Minneapolis, MN 55413
+
+### The Briar
+
+The Briar has a food bin you can donate non-perishables to. They are also accepting donations for whistles.

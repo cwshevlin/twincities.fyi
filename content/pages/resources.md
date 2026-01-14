@@ -19,3 +19,5 @@ MPR interviewed Erika Zurawski, co-founder of [MIRAC](https://www.miracmn.com/) 
 
 Kristie Kimball put together a [list of places](https://beyondbeurreblanc.substack.com/p/a-list-of-mn-restaurants-to-visit) that are publicly posting against ICE after Reneé Good's murder. 
 
+
+Send me and email at [cwshevlin@proton.me](mailto:cwshevlin@proton.me) with more links for resources!

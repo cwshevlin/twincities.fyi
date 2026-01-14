@@ -5,7 +5,7 @@ Summary: A page for donations and mutual aid.
 
 ### ICEOUT mutual aid linktree
 
-A [huge linktree](https://linktr.ee/ICEOUTmutualaid) of organizations, food distribution and direct aid links. 
+A [huge linktree](https://linktr.ee/mplsmutualaid) of organizations, food distribution and direct aid links. 
 
 ### Beyond Beurre Blanc
 

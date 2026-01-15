@@ -1,6 +1,6 @@
 AUTHOR = 'Colin Shevlin'
 SITENAME = 'twincities.fyi'
-SITEURL = ""
+SITEURL = "twincities.fyi"
 
 PATH = "content"
 
@@ -14,11 +14,12 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+ALL_FEED_RSS = 'feeds/all.rss.xml'
 THEME = './themes/fyi'
 STYLESHEET_URL = '/theme/css/main.css'
 
 EXTRA_PATH_METADATA = {
-    'extra/favicon.ico': {'path': 'favicon.ico'},
+    'images/favicon.ico': {'path': 'favicon.ico'},
 }
 
 # Blogroll

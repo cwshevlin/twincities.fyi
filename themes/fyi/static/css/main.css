@@ -47,6 +47,13 @@ article {
     padding-top: 1em;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    display: inherit;
+}
+
 @media (max-width: 600px) {
     body {
         font-family: monospace;

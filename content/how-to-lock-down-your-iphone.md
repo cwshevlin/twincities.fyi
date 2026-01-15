@@ -4,7 +4,7 @@ Category: Guides
 Tags: ios, security
 Slug: how-to-lock-down-your-iphone
 Keywords: signal, security
-Authors: Colin Shevlin
+Authors: Coco
 Summary: A guide on locking down your iPhone for privacy. 
 
 ### Why lock down your iPhone?
@@ -17,7 +17,13 @@ To me, this is absurd. Like, it should always be illegal to enter my home regard
 
 The most important thing is to take off your face or fingerprint for unlocking your phone. Personally, I don't even set it up when I get a new phone. That way, there's no danger of me accidentally turning it on. 
 
-![A screenshot of the settings app of an iPhone. There are four FaceID options that are all off. FaceID has not been set up on this iPhone](./images/IMG_7329.png)
+![A screenshot of the settings app of an iPhone. There are four FaceID options that are all off. FaceID has not been set up on this iPhone](./images/IMG_7330.png)
+
+This means that you will be using your code to unlock your phone. This can seem really inconvenient at first, but once you get the muscle memory down it will take one or two seconds. 
+
+I have a six digit code on my phone, because in the event law enforcement want to illegally try to crack the code it will take them longer than a 4 digit code. 
+
+### Additional steps
 
 I also take some additional steps: I turn off Control Center, Siri, and Wallet from the lock screen. 
 

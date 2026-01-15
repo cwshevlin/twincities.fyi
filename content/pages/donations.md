@@ -1,6 +1,6 @@
 Title: Donations and Mutual Aid
 Date: 2026-01-26 20:53
-Authors: Colin Shevlin
+Authors: Coco
 Summary: A page for donations and mutual aid. 
 
 ### ICEOUT mutual aid linktree

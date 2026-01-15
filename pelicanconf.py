@@ -1,4 +1,4 @@
-AUTHOR = 'Colin Shevlin'
+AUTHOR = 'Coco'
 SITENAME = 'twincities.fyi'
 SITEURL = "twincities.fyi"
 

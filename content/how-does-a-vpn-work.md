@@ -4,7 +4,7 @@ Category: Guides
 Tags: vpn, security
 Slug: how-does-a-vpn-work
 Keywords: vpn, security
-Authors: Colin Shevlin
+Authors: Coco
 Summary: I try to explain what a VPN does and why it's useful. 
 
 ### An introduction to the Internet's phone book. 

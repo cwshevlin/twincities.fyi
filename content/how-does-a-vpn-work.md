@@ -46,3 +46,7 @@ For example, let's say that your VPN provider allows you to select a VPN in Chic
 ### Safety considerations
 
 When using a VPN, you want to select a VPN provider you trust. If I wanted to get a lot of information about network traffic, I could create a virtual private network myself and advertise free VPN access. Then when users joined my VPN, I could save their device information and all their DNS requests, effectively duplicating the privacy problem they were trying to avoid by using a VPN. Be sure to only use VPNs from trusted providers like [Proton](https://protonvpn.com/download) or [NordVPN](https://nordvpn.com/country/usa/).
+
+### Adding a VPN you your phone. 
+
+Engadget has [a good guide](https://www.engadget.com/cybersecurity/vpn/how-to-use-a-vpn-on-iphone-201743118.html) on adding the VPN to your iPhone. I don't have an Android, but [this support article](https://support.google.com/android/answer/9089766?hl=en) seems to be what you'll need for that platform.

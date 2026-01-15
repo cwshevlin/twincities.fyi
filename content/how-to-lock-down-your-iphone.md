@@ -17,7 +17,7 @@ To me, this is absurd. Like, it should always be illegal to enter my home regard
 
 The most important thing is to take off your face or fingerprint for unlocking your phone. Personally, I don't even set it up when I get a new phone. That way, there's no danger of me accidentally turning it on. 
 
-![A screenshot of the settings app of an iPhone. There are four FaceID options that are all off. FaceID has not been set up on this iPhone](./images/IMG_7330.png)
+![A screenshot of the settings app of an iPhone. There are four FaceID options that are all off. FaceID has not been set up on this iPhone](https://twincities.fyi/images/IMG_7330.png)
 
 This means that you will be using your code to unlock your phone. This can seem really inconvenient at first, but once you get the muscle memory down it will take one or two seconds. 
 
@@ -33,5 +33,5 @@ I disable Siri so that no one can as to read messages or other private data from
 
 Then Wallet is disabled because sometimes I buy too many oat milk lattes! Sue me!
 
-![A screenshot of the settings app of an iPhone. The section is called "Allow Access When Locked". The toggles for Control Center, Siri, and Wallet are in the off position.](./images/IMG_7329.png)
+![A screenshot of the settings app of an iPhone. The section is called "Allow Access When Locked". The toggles for Control Center, Siri, and Wallet are in the off position.](https://twincities.fyi/images/IMG_7329.png)
 
